@@ -423,13 +423,13 @@
   ],
   "images": [
     {
-      "uri": "textures/HairAlpha_BlueCat1_baseColor.png"
+      "uri": "HairAlpha_BlueCat1_baseColor.png"
     },
     {
-      "uri": "textures/MI_Skin_BlueCat_V0_normal.png"
+      "uri": "MI_Skin_BlueCat_V0_normal.png"
     },
     {
-      "uri": "textures/MI_Skin_BlueCat_V0_baseColor.png"
+      "uri": "MI_Skin_BlueCat_V0_baseColor.png"
     }
   ],
   "materials": [
